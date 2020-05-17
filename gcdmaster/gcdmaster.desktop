@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Gnome CD Master
+Comment=Gnome Audio CD editor and burner
+Exec=gcdmaster %F
+Icon=gcdmaster
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GNOME;GTK;AudioVideo;
